@@ -23,11 +23,11 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-DA291C?&style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?&style=for-the-badge&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-7A4A6A?&style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?&style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-7A4A6A?&style=for-the-badge&logo=zap&logoColor=white" />
 
 <h3 align="left">🔥   My Stats :</h3>
 
