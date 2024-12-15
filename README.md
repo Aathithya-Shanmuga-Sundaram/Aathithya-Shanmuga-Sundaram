@@ -7,16 +7,27 @@
 
 - 💬 Ask me anything about **Cybersecurity**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aathithya-shanmuga-sundaram/**
-
 - ⚡ Fun fact **I use metaphors to explain technical stuffs to students**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/aathithya-shanmuga-sundaram/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-C%20Programming-00599C?&style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++%20Programming-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python%20Programming-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-DA291C?&style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?&style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-7A4A6A?&style=for-the-badge&logo=owasp&logoColor=white" />
 
 <h3 align="left">🔥   My Stats :</h3>
 
