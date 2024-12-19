@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aathithya</h1>
 <h3 align="center">Cybersecurity Enthusiast & Public Speaker 🎤 | Raised Awareness to 300+ People about Cybersecurity & Cyber Crimes 🛡️ | Chairman of Cyber Club - SRCAS |</h3>
 
-- 🔭 I’m currently working on **Real-Time Network Intrusion Detection System**
+- 🔭 I’m currently working on **Prevention Against Bank Frauds**
 
 - 🌱 I’m currently learning **About Red Teaming**
 
