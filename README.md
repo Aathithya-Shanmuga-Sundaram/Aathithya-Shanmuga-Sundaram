@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Secure Authentication Methods**  
-- 🌱 Learning more about **Red Teaming & Advanced Threat Simulation**  
-- 💬 I love simplifying **cybersecurity concepts** for students and professionals  
-- ⚡ Fun fact: **I use metaphors to explain technical stuff — and it works every time**  
+- 🔭 Currently working on **Secure Authentication Methods.**  
+- 🌱 Learning more about **Red Teaming & Advanced Threat Simulation.**  
+- 💬 I love simplifying **cybersecurity concepts** for students and professionals. 
+- ⚡ Fun fact: **I use metaphors to explain technical stuff and it works.**  
 
 ---
 
