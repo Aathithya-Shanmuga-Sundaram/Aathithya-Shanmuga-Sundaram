@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aathithya</h1>
-<h3 align="center">🔒 Cybersecurity Enthusiast | 🎤 Public Speaker | 👑 Chairman - Cyber Club, SRCAS</h3>
+<h3 align="center">🔒 Cybersecurity Enthusiast | 🎤 Public Speaker | 👑 Founder - MakeEveryoneCyberSafe</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Raising+Cyber+Awareness+to+500%2B+People;Exploring+Red+Teaming+%26+Threat+Defense;Turning+Complex+Security+Concepts+into+Clarity!" alt="Typing SVG" />
