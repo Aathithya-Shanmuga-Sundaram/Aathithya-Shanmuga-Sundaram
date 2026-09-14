@@ -26,7 +26,7 @@
       Hello There! <b>I'm Aathithya Shanmuga Sundaram</b>, specializing in IT Support, Security Operations, and Cyber Awareness. I focus on IT infrastructure, asset management, and threat defense, while simplifying complex security and incident response concepts for everyone.
       <br/><br/>
       🛡️ <b>IT Support Specialist</b> at <i>J&J Sourcing (Coimbatore Regional Office)</i><br/>
-      🎓 <b>Founder & Academic Pioneer:</b> <i>First Chairman of the Cyber Club at SRCAS (2023–2026) & Founder of department publications</i><br/>
+      🎓 <b>Founder & Academic Pioneer:</b> <i> Founder of MakeEveryoneCyberSafe & First Chairman of the Cyber Club at SRCAS (2023–2026)</i><br/>
       🔬 <b>Research & Vulnerabilities:</b> <i>Published 2 OSINT/Governance papers & disclosed vulnerabilities to 10 organizations</i><br/>
       💬 <b>Security Educator:</b> <i>Delivered 20+ cybersecurity sessions & trained 500+ people</i>
     </td>
