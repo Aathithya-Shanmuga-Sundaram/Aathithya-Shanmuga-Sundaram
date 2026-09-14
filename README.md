@@ -74,13 +74,13 @@
 <h2 align="center">📈 Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aathithya-Shanmuga-Sundaram&show_icons=true&theme=dark" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aathithya-Shanmuga-Sundaram&theme=dark" height="170" alt="GitHub Streak" />
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact" width="100%" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aathithya-Shanmuga-Sundaram&theme=github-compact" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
