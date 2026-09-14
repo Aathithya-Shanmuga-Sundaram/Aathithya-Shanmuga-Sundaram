@@ -18,8 +18,8 @@
 
 ### 🚀 About Me & Track Record
 - 🎓 **Founder & Academic Pioneer:** 
+  - Founder of **MakeEveryoneCyberSafe** - A public initiative to ensure cybersecurity reaches everyone
   - Served as the first-ever **Chairman of the Cyber Club at SRCAS** (2023–2026).
-  - Founded department publications *Cyber Insights* and *Cyber Chronicles*, creating templates adopted as official department standards.
   - Delivered **20+ cybersecurity sessions** and organized 2 state-level technical symposiums.
 - 🔬 **Research & Vulnerability Disclosure:**
   - Published 2 research papers in international journals covering **OSINT data exposure** and **intelligent governance frameworks**.
